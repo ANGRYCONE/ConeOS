@@ -11,4 +11,4 @@ you might break your computer. (nah you can't it's impossible, unless you did so
 
 
 
-this thing can run at like no ram and no storage space
+this thing can run at like no RAM and no storage space
