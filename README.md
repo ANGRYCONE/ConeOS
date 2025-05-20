@@ -1,14 +1,9 @@
 # ConeOS
-operating system
 
+**ConeOS is a hobby GRUB project and not a functional operating system.**
 
-Whatever you do PLEASE DO NOT BOOT FROM THIS WITH A USB AND INSTALL IT! Nothing installs, you will go right back into your original operating system
+**Warning:** PLEASE DO NOT ATTEMPT TO BOOT OR INSTALL THIS PROJECT. It is not designed for actual use and will not install an operating system. You will simply return to your existing operating system. While it's unlikely to cause harm to your computer, experimenting with boot files always carries a slight risk if you're unsure of what you're doing.
 
-you might break your computer. (nah you can't it's impossible, unless you did something idk about)
+This project is an experiment in creating a GRUB-based bootloader, exploring minimal system requirements.
 
-
-
-
-
-
-this thing can run at like no RAM and no storage space
+Copyright (c) 2025 AngryConeMan
