@@ -6,4 +6,4 @@
 
 This project is an experiment in creating a GRUB-based bootloader, exploring minimal system requirements.
 
-Copyright (c) 2025 AngryConeMan
+Copyright © 2025 AngryConeMan
