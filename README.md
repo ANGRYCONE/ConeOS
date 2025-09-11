@@ -6,4 +6,4 @@
 ![Release Downloads](https://img.shields.io/github/downloads/ANGRYCONE/ConeOS/latest/total?style=flat-square)
 
 
-Actually operates now.
+Actually operates now. (I'm talking about ConeOS 2.0)
