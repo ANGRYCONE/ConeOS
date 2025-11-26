@@ -7,3 +7,4 @@
 
 
 Actually operates now. (I'm talking about ConeOS 2.0)
+ConeOS 2.0 is BIOS ONLY, ConeOS 1.0 is UEFI and BIOS
