@@ -6,5 +6,9 @@
 ![Release Downloads](https://img.shields.io/github/downloads/ANGRYCONE/ConeOS/latest/total?style=flat-square)
 
 
+# Status
+Discontinued.
+
+
 Actually operates now. (I'm talking about ConeOS 2.0)
 ConeOS 2.0 is BIOS ONLY, ConeOS 1.0 is UEFI and BIOS
